@@ -47,12 +47,6 @@ class CfgVehicles
 		model="CarCover\data\ExpansionVodnik_Cover.p3d";
 		attachments[]=
 		{
-			"mustangwheel",
-			"mustangwheel",
-			"mustangwheel",
-			"mustangwheel",
-			"mustangwheel",
-			"mustangwheel",
 			"Reflector_1_1",
 			"Reflector_2_1",
 			"EngineBelt",
@@ -67,7 +61,13 @@ class CfgVehicles
 			"CanisterGasoline",
 			"CarBattery",
 			"CarRadiator",
-			"SparkPlug"
+			"SparkPlug",
+			"mustangWheel",
+			"mustangWheel",
+			"mustangWheel",
+			"mustangWheel",
+			"mustangWheel",
+			"mustangWheel"
 		};
 	};
 	class DBO_Mustang_Cover_Winter: DBO_Mustang_Cover
